@@ -4,8 +4,8 @@ local cam = workspace.CurrentCamera
 
 -- ===== CÀI ĐẶT =====
 local eggName = "Hollow Egg"
-local buyAmount = 50
-local clickTimes = 15
+local buyAmount = 25
+local clickTimes = 7
 local clickDelay = 0.12  -- giây giữa các lần click
 -- ====================
 
