@@ -4,7 +4,7 @@ local questScripts = {
     ["comet"]     = "https://raw.githubusercontent.com/quocngo1412/Rank/refs/heads/main/Comet.lua",
     ["lucky block"] = "https://raw.githubusercontent.com/quocngo1412/Rank/refs/heads/main/LuckyBlock.lua",
     ["pinata"]    = "https://raw.githubusercontent.com/quocngo1412/Rank/refs/heads/main/Pinata.lua",
-    ["egg"]       = "https://raw.githubusercontent.com/quocngo1412/Rank/refs/heads/main/Egg.lua",
+    ["hath"]       = "https://raw.githubusercontent.com/quocngo1412/Rank/refs/heads/main/Egg.lua",
     ["gold"]      = "https://raw.githubusercontent.com/quocngo1412/Rank/refs/heads/main/Gold.lua",
     ["rainbow"]   = "https://raw.githubusercontent.com/quocngo1412/Rank/refs/heads/main/Rainbow.lua"
 }
